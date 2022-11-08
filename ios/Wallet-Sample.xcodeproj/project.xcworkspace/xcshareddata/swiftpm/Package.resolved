@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wallet-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/trustwallet/wallet-core",
+      "state" : {
+        "revision" : "49877b1792b78851979ed3fa90fd8d400729464a",
+        "version" : "3.0.8"
+      }
+    }
+  ],
+  "version" : 2
+}
