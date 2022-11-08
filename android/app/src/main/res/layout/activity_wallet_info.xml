@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingHorizontal="16sp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mnemonic"
+        android:layout_marginTop="24sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/txtOutMnemonic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:layout_marginTop="24sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/txtOutAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Private Key"
+        android:layout_marginTop="24sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/txtOutPrivateKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Public Key"
+        android:layout_marginTop="24sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/txtOutPublicKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
