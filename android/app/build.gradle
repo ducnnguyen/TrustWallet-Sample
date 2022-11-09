@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "io.astranaut.sdk.tiniappsdkexample"
+        applicationId "io.astranaut.sdk.example"
         minSdk 23
         targetSdk 32
         versionCode 1

@@ -1,4 +1,4 @@
-package io.astranaut.sdk.tiniappsdkexample
+package io.astranaut.sdk.example
 
 import android.os.Bundle
 import android.widget.TextView

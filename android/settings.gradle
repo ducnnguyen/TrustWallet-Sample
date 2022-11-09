@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "TiniAppSDKExample"
+rootProject.name = "SDKExample"
 include ':app'
 include ':astrawalletsdk'
