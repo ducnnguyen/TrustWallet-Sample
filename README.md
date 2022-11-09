@@ -51,7 +51,10 @@ Generate a token [here](https://github.com/settings/tokens):
 ![Personal Access Token](https://2744446184-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LeGDgApX5LA1FGVGo-z%2Fuploads%2Fgit-blob-d986d0001b414b2c0abeba5cd815740c50841dca%2Fgithub-packages-token.png?alt=media)
 
 ## Usage
-
+WalletManager is written by wrapping TrustWalletCore SDK to provide a few functions to make wallet management easier
+- Create/Import existed wallet
+- Export wallet informations
+- Using `KeyStore` to storage key in local storage
 ## Documentation
 
 For comprehensive documentation, see [developer.trustwallet.com](https://developer.trustwallet.com/wallet-core/integration-guide/wallet-core-usage).
