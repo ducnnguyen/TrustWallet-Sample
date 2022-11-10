@@ -4,3 +4,4 @@ android/*/build
 android/.gradle
 android/.idea
 android/local.properties
+ios/Pods
